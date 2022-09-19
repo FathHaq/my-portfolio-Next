@@ -3,7 +3,7 @@ export default function Services() {
 		<div className="flex justify-between items-center mt-[30em] h-screen snap-center" id="services">
 			<div className="w-[30em]">
 				<h1 className="text-white text-7xl font-bold mb-10">My Awesome<br/>Services</h1>
-				<p className="text-slate-400 text-lg">Eget malesuada tortor ut sed. Tincidunt viverra malesuada nisl vehicula vestibulum. Ut blandit fermentum, cursus nulla. Imperdiet neque mi convallis quis interdum sagittis.</p>
+				<p className="text-slate-400 text-lg">Kami akan selalu melayani anda kapapn pun dimana pun anda berada dalam senang walaupun duka.</p>
 			</div>
 			<div>
 				<div className="rounded-lg border-slate-700 border-[1px] p-6 flex items-center w-[520px] justify-between m-10">
