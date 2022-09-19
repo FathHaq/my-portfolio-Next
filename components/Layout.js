@@ -9,7 +9,7 @@ export default function Layout({children}) {
 				<title>My Portfolio</title>
 				<link rel="shortcut icon" href="logo.png"/>
 			</Head>
-			<main className="bg-[#030E21] bg-[url('/background/background.svg')] bg-cover backdrop-blur-xl w-full">
+			<main className="bg-[#030E21] bg-[url('/background/background.svg')] bg-cover w-full backdrop-blur-3xl">
 				<Navbar/>
 				<article className="snap-y px-32">
 					{children}

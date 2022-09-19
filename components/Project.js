@@ -1,11 +1,11 @@
 export default function Project() {
 	return (
-		<div className="snap-center" id="project">
+		<div className="snap-center" id="">
 			<div className="flex justify-between mb-14">
 				<h1 className="text-white text-6xl font-bold">My Project</h1>
 				<a className="text-[#F8E7A1]">see all →</a>
 			</div>
-			<div className="grid grid-cols-3 gap-y-10">
+			<div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-y-10 justify-center">
 				<div className="flex flex-col items-center">
 					<div className="w-[360px] h-[270px] bg-[url('/image/img1.png')] bg-cover"/>
 					<div className="w-[340px]">
