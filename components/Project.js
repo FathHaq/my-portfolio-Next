@@ -5,37 +5,37 @@ export default function Project() {
 
 	const datas = [
 		{
-			'name' : 'Politeknik IDN Website',
+			'name' : 'Politeknik IDN Website | ReactJs',
 			'sub' : 'Landing Page',
 			'link' : 'idn.ac.id',
 			'img' : '1'
 		},
 		{
-			'name' : 'Website Travel',
+			'name' : 'Website Travel | TailwindCSS',
 			'sub' : 'Landing Page',
 			'link' : '',
 			'img' : '2'
 		},
 		{
-			'name' : 'BUDTech Company Profile',
+			'name' : 'BUDTech Company Profile | TailwindCSS',
 			'sub' : 'Landing Page',
 			'link' : 'budtech.my.id',
 			'img' : '3',
 		},
 		{
-			'name' : 'Company Profile',
+			'name' : 'Startup JunkBank App | Figma',
 			'sub' : 'Design UI',
 			'link' : '',
 			'img' : '4',
 		},
 		{
-			'name' : 'Company Profile',
+			'name' : 'Quizy App | Figma',
 			'sub' : 'Design UI',
 			'link' : '',
 			'img' : '5',
 		},
 		{
-			'name' : 'Sistem Informasi Bencana',
+			'name' : 'Sistem Informasi Bencana | Laravel React',
 			'sub' : 'Sistem Informasi',
 			'link' : 'bencana.id',
 			'img' : '6',
