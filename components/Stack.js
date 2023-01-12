@@ -11,6 +11,7 @@ export default function Stack() {
 			</div >
 			<div className="flex">
 				<div className="bg-[url('/icons/laravel.png')] w-20 h-20 bg-contain bg-no-repeat bg-center m-2"></div>
+				<div className="bg-[url('/icons/ci.png')] w-20 h-20 bg-contain bg-no-repeat bg-center m-2"></div>
 				<div className="bg-[url('/icons/next.js.png')] w-20 h-20 bg-contain bg-no-repeat bg-center m-2"></div>
 				<div className="bg-[url('/icons/react.png')] w-20 h-20 bg-contain bg-no-repeat bg-center m-2"></div>
 				<div className="bg-[url('/icons/tailwindcss.png')] w-20 h-20 bg-contain bg-no-repeat bg-center m-2"></div>
