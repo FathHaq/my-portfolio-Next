@@ -11,9 +11,9 @@ export default function Project() {
 			'img' : '1'
 		},
 		{
-			'name' : 'Website Travel | TailwindCSS',
-			'sub' : 'Landing Page',
-			'link' : '',
+			'name' : 'E-commers Apotik',
+			'sub' : 'Web App Laravel',
+			'link' : 'testprojects.my.id',
 			'img' : '2'
 		},
 		{
@@ -29,9 +29,9 @@ export default function Project() {
 			'img' : '4',
 		},
 		{
-			'name' : 'Quizy App | Figma',
-			'sub' : 'Design UI',
-			'link' : '',
+			'name' : 'Sistem Pakar terhadap Kecanduan Pornografi',
+			'sub' : 'Web App Laravel ReactJs',
+			'link' : 'testprojects.my.id',
 			'img' : '5',
 		},
 		{
@@ -52,7 +52,7 @@ export default function Project() {
 				{
 					datas.map((data, index) =>{
 						return (
-							<a href={`https://${data.link}`} key={index}>
+							<a href={`https://${data.link}`} key={index} target="blank">
 								<div className="flex flex-col items-center">
 									{/* <div className={`w-[360px] h-[270px] bg-[url('/public/image/porto_${data.img}.png')] bg-cover`}/> */}
 									<Image src={`/image/porto_${data.img}.png`} width={350} height={250} objectFit="cover" alt="Portofolio Picture" quality={80} />

@@ -12,7 +12,7 @@ export default function Navbar() {
 				/>
 			</a>
 			<ul className="flex">
-					<li><a href="#services" className="px-5 py-3 text-pink-500 rounded-md hover:bg-slate-400/50 ">Services</a></li>
+					<li><a href="#services" className="px-5 py-3 text-white rounded-md hover:bg-slate-400/50 ">Services</a></li>
 					<li><a href="#project" className="px-5 py-3 text-white rounded-md hover:bg-slate-400/50 ">Project</a></li>
 					<li><a href="#testi" className="px-5 py-3 text-white rounded-md hover:bg-slate-400/50 ">Testimoni</a></li>
 					<li><a href="#about" className="px-5 py-3 text-white rounded-md hover:bg-slate-400/50 ">About</a></li>
